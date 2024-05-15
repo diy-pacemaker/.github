@@ -4,7 +4,7 @@ Ever felt inclined to build your own pacemaker? Then you are at the right place!
 
 This repository collection contains Modern C++ code and electronic circuit information for building a DIY pacemaker.  
 
-![](Röntgen_Thorax_AP.jpg)
+![](https://github.com/diy-pacemaker/.github/tree/main/profile/Röntgen_Thorax_AP.jpg)
 
 <!--
 
